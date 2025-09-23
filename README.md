@@ -57,7 +57,11 @@ The code requires a time series of:
 ---
 
 ## Credits/Copyright
-Copyright © 2025 Technical University of Denmark
 
+### Author
 This version of the software was developed by Shahab Tohidi as a Postdoctoral Researcher at the Department of Applied Mathematics and Computer Science, Dynamical Systems Section, DTU.
 
+### Copyright
+Copyright © 2025 Technical University of Denmark.
+
+This project is distributed under the terms of the MIT License.
