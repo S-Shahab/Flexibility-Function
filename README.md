@@ -3,7 +3,7 @@
 ## Key Information
 - **License:** MIT License  
 - **Language:** Python 3.x  
-- **Dependencies:** numpy, pandas, scipy, matplotlib  
+- **Libraries:** numpy, pandas, scipy, matplotlib  
 
 ---
 
