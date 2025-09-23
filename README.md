@@ -18,7 +18,7 @@
 
 ## Introduction
 The **Flexibility Function (FF)** algorithm is designed to represent flexibility dynamics. This utilizes a stochastic nonlinear differential equation for modeling dynamic demand in response to price deviations.
-It uses I-spline basis functions to construct functions *g(U)*, which capture the relation between price and flexibility state. It also utilizes a polynomial of order 6 to construct the function *f(X)* for state equations.  
+It uses I-spline basis functions to construct functions *g(U)*, which capture the relation between price and flexibility state. It also utilizes a polynomial of order 6 to construct the function *f(X)* for state equations. For more details, please read the paper in the paper in the Documents folder.
 
 Key features include:  
 - Maximum likelihood approach for parameter estimation with SciPy optimization
