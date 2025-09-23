@@ -1,2 +1,2 @@
 # Flexibility-Function
-Flexibility Function (FF) is a stochastic dynamical system to map demand and price in a price-responsive energy system.
+This repository includes the Flexibility Function (FF) algorithm, which represents flexibility dynamics. This utilizes a stochastic nonlinear differential equation for modeling dynamic demand in response to price deviations.
