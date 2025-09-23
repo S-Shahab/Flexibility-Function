@@ -42,7 +42,7 @@ The code requires a time series of:
 - Price
 - Baseline
 
-- --
+---
 
 ## Visualization example
 ### The following figure shows the capability of demand prediction via the identified FF. The figure demonstrates observed demand (blue line), predicted demand (red line) and price (black dashed line).
@@ -54,5 +54,10 @@ The code requires a time series of:
 ### The following figure shows the identified *f* and *g* functions.
 ![Function f(X)](Figures/Figure_3.png)
 
+---
 
+## Credits/Copyright
+Copyright © 2025 Technical University of Denmark
+
+This version of the software was developed by Shahab Tohidi as a Postdoctoral Researcher at the Department of Applied Mathematics and Computer Science, Dynamical Systems Section, DTU.
 
