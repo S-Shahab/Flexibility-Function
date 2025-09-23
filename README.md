@@ -44,7 +44,9 @@ The code requires a time series of:
 
 - --
 
-## Visualizations
+## Visualization example
+### Demand prediction
+![Function f(X)](Figures/Figure_1.png)
 
 
 
