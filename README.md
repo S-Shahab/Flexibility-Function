@@ -45,13 +45,13 @@ The code requires a time series of:
 ---
 
 ## Visualization example
-### The following figure shows the capability of demand prediction via the identified FF. The figure demonstrates observed demand (blue line), predicted demand (red line) and price (black dashed line).
+The following figure shows the capability of demand prediction via the identified FF. The figure demonstrates observed demand (blue line), predicted demand (red line) and price (black dashed line).
 ![Function f(X)](Figures/Figure_1.png)
 
-### The following figure shows the flexibility state.
+The following figure shows the flexibility state.
 ![Function f(X)](Figures/Figure_2.png)
 
-### The following figure shows the identified *f* and *g* functions.
+The following figure shows the identified *f* and *g* functions.
 ![Function f(X)](Figures/Figure_3.png)
 
 ---
