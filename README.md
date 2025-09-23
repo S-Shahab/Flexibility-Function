@@ -23,7 +23,9 @@ The **Flexibility Function (FF)** algorithm is designed to represent flexibility
 It uses **I-spline** basis functions to construct functions *g(U)*, which capture the relation between price and flexibility state. It also utilizes a polynomial of order 6 to construct the function *f(X)* for state equations.  
 
 Key features include:  
-- Parameter estimation with **SciPy optimization** (SLSQP)  
+- Maximum likelihood approach for parameter estimation with **SciPy optimization**
+- Solvers: SLSQP, Nelder-Mead, L-BFGS-B
+- Using multiple initial values for optimization problem solving   
 - Validation with R² and RMSE metrics  
 - Visualization of intermediate functions and final predictions  
 
