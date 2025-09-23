@@ -10,11 +10,9 @@
 ## Table of Contents
 1. [Introduction](#introduction)  
 2. [Getting Started](#getting-started)  
-3. [Usage](#usage)  
-4. [Data Requirements](#data-requirements)  
-5. [Visualization](#visualization)  
-6. [Results](#results)  
-7. [License](#license)  
+3. [Data Requirements](#data-requirements)  
+4. [Visualization](#visualization)  
+
 
 ---
 
@@ -33,9 +31,13 @@ Key features include:
 
 ## Getting Started
 
-### 1. Install Dependencies
-Install the required Python libraries:
+All required Python libraries are included. The code is ready to be used. 
 
-```bash
-pip install numpy pandas scipy matplotlib
+---
+
+## Data Requirements
+
+
+
+
 
